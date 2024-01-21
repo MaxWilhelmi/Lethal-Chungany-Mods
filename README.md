@@ -2,6 +2,7 @@
 Lethal Company Mods for Som Boo Dee Discord Server
 
 # Current Modlist
+- https://thunderstore.io/c/lethal-company/p/PancakeTeam/AllMyFellasDropship/
 - https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/
 - https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/
 - https://thunderstore.io/c/lethal-company/p/SirTyler/BetterTeleporter/
