@@ -7,6 +7,10 @@ Lethal Company Mods for Som Boo Dee Discord Server
 - https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/
 - https://thunderstore.io/c/lethal-company/p/SirTyler/BetterTeleporter/
 - https://thunderstore.io/c/lethal-company/p/Rattenbonkers/Boombox_Autonext/
+- https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/
+- https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+- https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/
+- https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/
 - https://thunderstore.io/c/lethal-company/p/TV23/BoomBoxNoPower/
 - https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/
 - https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/
