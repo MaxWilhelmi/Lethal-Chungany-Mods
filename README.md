@@ -2,6 +2,24 @@
 Lethal Company Mods for Som Boo Dee Discord Server
 
 # Current Modlist
+- https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/
+- https://thunderstore.io/c/lethal-company/p/Invertigo/JetpackHandling/
+- https://thunderstore.io/c/lethal-company/p/Astro/LightSwitchNoMore/
+- https://thunderstore.io/c/lethal-company/p/Spark_Studios/Gridian_Cosmetics/
+- https://thunderstore.io/c/lethal-company/p/CTNOriginals/OuterDoorButtons/
+- https://thunderstore.io/c/lethal-company/p/bandaidroo/BandaidsMegaCosmetics/
+- https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackWarning/
+- https://thunderstore.io/c/lethal-company/p/axd1x8a/LCAmmoCheck/
+- https://thunderstore.io/c/lethal-company/p/PostMortem/BetterLightning/
+- https://thunderstore.io/c/lethal-company/p/Pinta/PintoBoy/
+- https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding/
+- https://thunderstore.io/c/lethal-company/p/e3s1/BetterLadders/
+- https://thunderstore.io/c/lethal-company/p/stefan750/LCUltrawide/
+- https://thunderstore.io/c/lethal-company/p/Horsey4/ShotgunFix/
+- https://thunderstore.io/c/lethal-company/p/MonkeyMan/Family_Guy_TV_Extended/
+- https://thunderstore.io/c/lethal-company/p/Rattenbonkers/TVLoader/
+- https://thunderstore.io/c/lethal-company/p/boring/EmoteWhileInMotion/
+- https://thunderstore.io/c/lethal-company/p/zelofi/ToiletPaper/
 - https://thunderstore.io/c/lethal-company/p/PancakeTeam/AllMyFellasDropship/
 - https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/
 - https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/
